@@ -1,0 +1,8381 @@
+{
+  "title": "M EDICINE",
+  "outline": [
+    {
+      "level": "H4",
+      "text": "The GALE",
+      "page": 2,
+      "font_size": 44.83
+    },
+    {
+      "level": "H4",
+      "text": "ENCYCLOPEDIA of",
+      "page": 2,
+      "font_size": 39.85
+    },
+    {
+      "level": "H4",
+      "text": "A LTERNATIVE",
+      "page": 2,
+      "font_size": 47.82
+    },
+    {
+      "level": "H4",
+      "text": "MEDICINE",
+      "page": 2,
+      "font_size": 41.84
+    },
+    {
+      "level": "H1",
+      "text": "M EDICINE",
+      "page": 4,
+      "font_size": 63.76
+    },
+    {
+      "level": "H4",
+      "text": "T H I R D E D I T I O N",
+      "page": 4,
+      "font_size": 21.92
+    },
+    {
+      "level": "H4",
+      "text": "CONTENTS",
+      "page": 6,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "List of Entries ............................................ vii Introduction ............................................. xvii",
+      "page": 6,
+      "font_size": 11.95
+    },
+    {
+      "level": "H4",
+      "text": "Advisory Board ......................................... xix Contributors ............................................. xxi",
+      "page": 6,
+      "font_size": 11.95
+    },
+    {
+      "level": "H4",
+      "text": "Entries Organizations ......................................... 2427",
+      "page": 6,
+      "font_size": 11.95
+    },
+    {
+      "level": "H4",
+      "text": "Glossary ................................................. 2443 General Index ........................................ 2517",
+      "page": 6,
+      "font_size": 11.95
+    },
+    {
+      "level": "H4",
+      "text": "LIST OF ENTRIES",
+      "page": 8,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "PLEASE READ—IMPORTANT INFORMATION",
+      "page": 16,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "INTRODUCTION",
+      "page": 18,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "Diseases/conditions",
+      "page": 18,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Scope",
+      "page": 18,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Therapies",
+      "page": 18,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Inclusion criteria",
+      "page": 18,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "About the Contributors Herbs/remedies",
+      "page": 18,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "How to Use this Book",
+      "page": 19,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Graphics",
+      "page": 19,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "ADVISORS",
+      "page": 20,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "CONTRIBUTORS",
+      "page": 22,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "Abdominal pain see Stomaches",
+      "page": 24,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Abscess",
+      "page": 24,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition",
+      "page": 24,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Description",
+      "page": 24,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Causes and symptoms",
+      "page": 24,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Treatment",
+      "page": 25,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Allopathic treatment",
+      "page": 25,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Expected results",
+      "page": 25,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis",
+      "page": 25,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Acidophilus",
+      "page": 26,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "KEY TERMS",
+      "page": 26,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Prevention",
+      "page": 26,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "General use",
+      "page": 26,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Absinthe see Wormwood Aches and pains see Pain",
+      "page": 26,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Preparations",
+      "page": 28,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Precautions",
+      "page": 28,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Side effects",
+      "page": 29,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Acne",
+      "page": 29,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions",
+      "page": 29,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Acne rosacea see Rosacea",
+      "page": 33,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Aconite",
+      "page": 33,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Acquired Immunodeficiency syndrome see AIDS",
+      "page": 35,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Acupressure",
+      "page": 35,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins Benefits",
+      "page": 36,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Traing and certification",
+      "page": 38,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance",
+      "page": 38,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Acupuncture",
+      "page": 39,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins",
+      "page": 39,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Benefits",
+      "page": 40,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Acute homeopathic remedies see Homeo- pathy, acute prescribing",
+      "page": 43,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "ADD see Attention-deficit hyperactivity disorder",
+      "page": 43,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Addiction see Alcoholism; Substance abuse and dependence",
+      "page": 43,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ademetionine",
+      "page": 43,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Interactions",
+      "page": 44,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "ADHD see Attention-deficit hyperactivity disorder",
+      "page": 45,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Adie’s pupil",
+      "page": 45,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "African medicine see Traditional African medicine",
+      "page": 47,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Prognosis",
+      "page": 47,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "African pygeum",
+      "page": 47,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Agastache",
+      "page": 50,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Aging",
+      "page": 51,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects Description",
+      "page": 51,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Causes and symptoms Treatment",
+      "page": 52,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "AIDS",
+      "page": 55,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Alcoholism",
+      "page": 63,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Alexander technique",
+      "page": 69,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "FREDERICK MATTHIAS ALEXANDER (1869–1955)",
+      "page": 71,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Alfa",
+      "page": 72,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Alisma",
+      "page": 74,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Description",
+      "page": 74,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Allergic rhinitis see Hay fever",
+      "page": 75,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Allergies",
+      "page": 76,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Allergy elimination diet see Elimination diet",
+      "page": 80,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Allium cepa",
+      "page": 80,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Allium sativa see Garlic",
+      "page": 82,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Aloe",
+      "page": 82,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Definition",
+      "page": 82,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Alpha-hydroxy",
+      "page": 85,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Alopecia see Hair loss",
+      "page": 85,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "ALS, Amyotrophic lateral sclerosis see Lou",
+      "page": 87,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Gehrig’s disease Alternate nostril breathing see Breath",
+      "page": 87,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Althea occinal see Marsh mallow",
+      "page": 87,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Alzheimer’s disease",
+      "page": 87,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Demographics",
+      "page": 93,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Amblyopia see Lazy eye",
+      "page": 93,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Amenorrhea",
+      "page": 93,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Causes and symptoms Definition",
+      "page": 93,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Therapy",
+      "page": 95,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Nutrition concerns",
+      "page": 95,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "American elm see Slippery elm American skullcap see Skullcap",
+      "page": 96,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Amino acids",
+      "page": 96,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Amyotrophic lateral sclerosis see Lou Gehrig’s disease",
+      "page": 99,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "An-mo see Chinese massage",
+      "page": 99,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Andrographis",
+      "page": 99,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Interactions",
+      "page": 99,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Androstenedione",
+      "page": 101,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Anemarrhena",
+      "page": 102,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Anemia",
+      "page": 105,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Angelica",
+      "page": 110,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Side effects",
+      "page": 111,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Angelica archangelica see Angelica root Angelica sinensis see Dong quai",
+      "page": 112,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Angina",
+      "page": 112,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Animal-assisted therapy see Pet therapy",
+      "page": 116,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Anise",
+      "page": 116,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ankylosing spondylitis",
+      "page": 118,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Side effects",
+      "page": 118,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Description",
+      "page": 118,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Anorexia nervosa",
+      "page": 121,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nutritional therapy",
+      "page": 123,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Anthroposophical medicine",
+      "page": 125,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Anti-inflammatory diets",
+      "page": 127,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Traing and certification Definition",
+      "page": 127,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Foods that reduce chronic inflammation",
+      "page": 129,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Function",
+      "page": 129,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Antioxidants",
+      "page": 131,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Risks",
+      "page": 131,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Anxiety",
+      "page": 136,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Apis",
+      "page": 140,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Apitherapy",
+      "page": 142,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Apple cider vinegar",
+      "page": 145,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparation",
+      "page": 146,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Applied kinesiology",
+      "page": 147,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects Origins",
+      "page": 147,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "GEORGE GOODHEART (1918–2008)",
+      "page": 150,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Apricot seed",
+      "page": 151,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Arbor Vitae see Thuja",
+      "page": 153,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Argine",
+      "page": 153,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Side effects",
+      "page": 153,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Arka",
+      "page": 155,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Arnica",
+      "page": 157,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "History",
+      "page": 158,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Aromatherapy",
+      "page": 159,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Arrowroot",
+      "page": 165,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Arsenicum album",
+      "page": 166,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Art therapy",
+      "page": 168,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Artichoke",
+      "page": 171,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Arthritis see Osteoarthritis; Rheumatoid arthritis",
+      "page": 171,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ashwaganda",
+      "page": 173,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ascorbic acid see Vitamin C",
+      "page": 173,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Asthma",
+      "page": 176,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Astigmatism",
+      "page": 182,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Aston-Patterning",
+      "page": 184,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Preparations",
+      "page": 184,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "JUDITH ASTON",
+      "page": 185,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Side effects",
+      "page": 185,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Astragalus",
+      "page": 186,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Atherosclerosis",
+      "page": 188,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Athlete’s foot",
+      "page": 191,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Atkins diet",
+      "page": 192,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prevention Definition",
+      "page": 192,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "ROBERT C. ATKINS (1930–2003)",
+      "page": 193,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Atopic dermatis see Eczema",
+      "page": 196,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Atractylodes",
+      "page": 196,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Attention-deficit hyperactivity disorder",
+      "page": 197,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Aucklandia",
+      "page": 201,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Auditory integration",
+      "page": 202,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Benefits",
+      "page": 203,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "ALFRED TOMATIS (1920–2001)",
+      "page": 204,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Aura therapy",
+      "page": 204,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Types of aura therapy",
+      "page": 205,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Auriculotherapy",
+      "page": 208,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Traing and certification Preparations",
+      "page": 210,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Autism",
+      "page": 211,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Autoimmune arthritis see Ankylosing spondylitis",
+      "page": 214,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ayurvedic medicine",
+      "page": 214,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "DEEPAK CHOPRA (1946–)",
+      "page": 217,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Bach flower essences",
+      "page": 220,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bach flower remedies see Flower remedies Back pain see Low back pain",
+      "page": 223,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Bad breath see Halitosis",
+      "page": 223,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Bai gou see Ginkgo biloba Bai thu see Atractylodes (white)",
+      "page": 223,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Balding see Hair loss",
+      "page": 223,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Balm of Gilead",
+      "page": 223,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Balneology see Hydrotherapy Ban xia see Pinellia",
+      "page": 224,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Barberry",
+      "page": 224,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Preparations",
+      "page": 226,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Barley grass",
+      "page": 226,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bates method",
+      "page": 228,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bayberry",
+      "page": 231,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bearberry see Uva ursi Beard moss see Usnea",
+      "page": 232,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Bedsores",
+      "page": 233,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bedwetting",
+      "page": 235,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bee pollen",
+      "page": 237,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bee sting therapy see Apitherapy Bee stings see Bites and stings",
+      "page": 239,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Behavioral medicine see Mind/Body medicine",
+      "page": 239,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Behavioral optometry",
+      "page": 239,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Behavioral therapy",
+      "page": 240,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Belladonna",
+      "page": 244,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Preparations",
+      "page": 245,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Beta-methylbutyric acid",
+      "page": 247,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benign prostatic hypertrophy see Prostate enlargement",
+      "page": 247,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Bernard traing see Auditory integration",
+      "page": 247,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Beta carotene",
+      "page": 249,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Beta hydroxy",
+      "page": 254,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Betaine hydrochloride",
+      "page": 256,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bhakti yoga",
+      "page": 258,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bilberry",
+      "page": 260,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Binge eating disorder",
+      "page": 263,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Expected results Treatment",
+      "page": 264,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Biocytin see Brewer’s yeast",
+      "page": 265,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Biofeedback",
+      "page": 265,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "ELMER GREEN (1918–)",
+      "page": 266,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Bioflavonoids",
+      "page": 268,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bioidentical hormone replacement therapy",
+      "page": 271,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Biological dentistry see Holistic dentistry",
+      "page": 274,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Biota",
+      "page": 274,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Biotherapeutic drainage",
+      "page": 275,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Biotin",
+      "page": 276,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bipolar disorder",
+      "page": 278,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bites and stings",
+      "page": 282,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Birth see Childbirth",
+      "page": 282,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Allopathic treatment Treatment",
+      "page": 284,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bitter melon",
+      "page": 286,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bitters",
+      "page": 288,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Black cohosh",
+      "page": 291,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Black cumin seed extract",
+      "page": 294,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Black currant seed oil",
+      "page": 297,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Black haw",
+      "page": 298,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Black walnut",
+      "page": 300,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bladder cancer",
+      "page": 303,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Diagnosis",
+      "page": 303,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bladder infection",
+      "page": 306,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Expected outcome",
+      "page": 308,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bladderwrack",
+      "page": 309,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Effectiveness",
+      "page": 310,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Use",
+      "page": 310,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Blessed thistle",
+      "page": 311,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Blisters",
+      "page": 313,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Diagnosis",
+      "page": 313,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Blood clots",
+      "page": 314,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Blood poisoning",
+      "page": 317,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bloodroot",
+      "page": 319,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description General use",
+      "page": 319,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Side effects Preparations",
+      "page": 320,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Precautions",
+      "page": 320,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bloodwort see Yarrow Blue-green algae see Spirulina",
+      "page": 321,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Blue gum see Eucalyptus",
+      "page": 321,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Blue cohosh",
+      "page": 321,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Body lice see Lice infestation",
+      "page": 323,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Body odor",
+      "page": 323,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Boils",
+      "page": 325,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bonemeal",
+      "page": 327,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Boneset",
+      "page": 329,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bone spurs",
+      "page": 331,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Borage oil",
+      "page": 332,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Allopathic treatment",
+      "page": 332,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Boron",
+      "page": 335,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Boswellia",
+      "page": 337,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Botanical medicine",
+      "page": 338,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Botulism see Food poisoning",
+      "page": 344,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Breast cancer",
+      "page": 345,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Breast disease see Fibrocystic breast disease",
+      "page": 350,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Breast-feeding problems",
+      "page": 350,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Breath therapy",
+      "page": 353,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Breema",
+      "page": 356,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Origins",
+      "page": 356,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Brewer’s yeast",
+      "page": 358,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bromelain",
+      "page": 360,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bronchitis",
+      "page": 361,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bruises",
+      "page": 364,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bruxism",
+      "page": 366,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Treatment Description",
+      "page": 366,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bryonia",
+      "page": 368,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Buchu",
+      "page": 370,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Buckthorn",
+      "page": 371,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Buckeye see Horse chestnut",
+      "page": 371,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Bugle weed",
+      "page": 373,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bulimia nervosa",
+      "page": 375,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bunion",
+      "page": 379,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Causes and symptoms",
+      "page": 379,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Bupleurum see Chinese thoroughwax",
+      "page": 381,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Burdock root",
+      "page": 381,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Burns",
+      "page": 384,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Bursitis",
+      "page": 386,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Butcher’s broom",
+      "page": 388,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Buteyko",
+      "page": 390,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Preparations",
+      "page": 390,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Origins",
+      "page": 390,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Butternut see Black walnut",
+      "page": 393,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cadmium poisoning",
+      "page": 394,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Caffeine",
+      "page": 396,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Calcarea carbonica",
+      "page": 398,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Calcium",
+      "page": 401,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Calendula",
+      "page": 405,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Preparations",
+      "page": 405,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cancer",
+      "page": 406,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Calluses see Corns and calluses Camellia sinensis see Green tea",
+      "page": 406,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Canadensis see Elder",
+      "page": 406,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cancer, bladder see Bladder cancer Cancer, breast see Breast cancer",
+      "page": 417,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cancer, colorectal see Colorectal cancer Cancer, ovarian see Ovarian cancer",
+      "page": 417,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cancer, uterine see Uterine cancer",
+      "page": 417,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cancer treatments, biological",
+      "page": 417,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Canker sores",
+      "page": 421,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cannabis sativa see Marijuana",
+      "page": 422,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cantharis",
+      "page": 422,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Car sickness see Motion sickness Carbuncles see Boils",
+      "page": 424,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cardamom see Grains-of-paradise fruit",
+      "page": 424,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Carnitine",
+      "page": 424,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Carotenoids",
+      "page": 426,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Carpal tunnel syndrome",
+      "page": 430,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cartilage supplements",
+      "page": 433,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Castor oil",
+      "page": 435,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cataracts",
+      "page": 438,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Catmint see Catnip",
+      "page": 442,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Catnip",
+      "page": 442,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cat’s claw",
+      "page": 443,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cayce systems",
+      "page": 446,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Caveman diet see Paleolithic diet",
+      "page": 446,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Description Research and general acceptance",
+      "page": 447,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "EDGAR CAYCE (1877–1945)",
+      "page": 448,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Cayenne",
+      "page": 449,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ce bai ye see Thuja Cedar, red see Red cedar",
+      "page": 452,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Celiac disease",
+      "page": 452,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cell salt therapy",
+      "page": 455,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cell therapy",
+      "page": 457,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Precautions",
+      "page": 458,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "PAUL NIEHANS (1882–1971)",
+      "page": 459,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Cellulite",
+      "page": 460,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cerebral palsy",
+      "page": 463,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cerebral vascular insufficiency",
+      "page": 469,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cervical dysplasia",
+      "page": 472,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "CFS see Chronic fatigue syndrome",
+      "page": 475,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chakra balancing",
+      "page": 475,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chamomile",
+      "page": 476,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Charcoal, activated",
+      "page": 479,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chasteberry tree",
+      "page": 481,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chelated minerals",
+      "page": 484,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chelation therapy",
+      "page": 487,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chelidonium",
+      "page": 489,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Traing and certification",
+      "page": 489,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Benefits of Chelidonium",
+      "page": 489,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Chemical poisoning",
+      "page": 490,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cherry bark",
+      "page": 497,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cherry, wild see Wild cherry Chest pain see Angina",
+      "page": 499,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chickenpox",
+      "page": 499,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chickweed",
+      "page": 502,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chicory",
+      "page": 504,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chigong see Qigong",
+      "page": 505,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Childbirth",
+      "page": 506,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Childhood nutrition",
+      "page": 509,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chili pepper see Cayenne",
+      "page": 518,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chills",
+      "page": 518,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chinese angelica see Dong quai Chinese bupleurum see Chinese",
+      "page": 520,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "thoroughwax",
+      "page": 520,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese foxglove root",
+      "page": 520,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects Benefits",
+      "page": 521,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese gentiana see Gentiana",
+      "page": 521,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese massage",
+      "page": 521,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chinese medicine see Traditional Chinese medicine",
+      "page": 524,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese system of food cures",
+      "page": 524,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chinese tea see Green tea",
+      "page": 527,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese thoroughwax",
+      "page": 527,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chinese wolfberry see Lycium fruit",
+      "page": 528,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chinese yam",
+      "page": 529,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chiropractic",
+      "page": 530,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "DANIEL PALMER (1845–1913)",
+      "page": 534,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Chlamydia",
+      "page": 535,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chlorella",
+      "page": 538,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cholecalciferol see Vitamin D",
+      "page": 541,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cholesterol",
+      "page": 541,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Choline",
+      "page": 544,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chondroitin",
+      "page": 546,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Christian Science healing",
+      "page": 548,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Chromium",
+      "page": 551,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance General use",
+      "page": 551,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Chronic fatigue syndrome",
+      "page": 553,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Definition",
+      "page": 553,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Chronic pain see Pain",
+      "page": 558,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Chrysanthemum flower",
+      "page": 558,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Interactions",
+      "page": 560,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Chymotrypsin",
+      "page": 560,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cicada",
+      "page": 563,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cimicifuga racemosa see Black cohosh",
+      "page": 565,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cinnamon bark",
+      "page": 565,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cirrhosis",
+      "page": 568,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Clap see Gonorrhea Clinical ecology see Environmental therapy",
+      "page": 572,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Club moss",
+      "page": 572,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Uses",
+      "page": 573,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cnidium seeds",
+      "page": 574,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cobalain see Vitamin B 12 Cocklebur see Burdock root",
+      "page": 576,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Codonopsis root",
+      "page": 576,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coenzyme Q 10",
+      "page": 578,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coix",
+      "page": 580,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cola nut see Kola nut",
+      "page": 582,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Colchicum",
+      "page": 582,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Medical Use",
+      "page": 583,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cold, common see Common cold",
+      "page": 584,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cold sore",
+      "page": 584,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coleus",
+      "page": 588,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Colic",
+      "page": 590,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Causes and symptoms",
+      "page": 590,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Colitis",
+      "page": 592,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General Description",
+      "page": 592,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Colloidal silver",
+      "page": 595,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Colonic irrigation",
+      "page": 597,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Benefits",
+      "page": 597,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Color therapy",
+      "page": 599,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Colorectal cancer",
+      "page": 601,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Causes and symptoms Diagnosis",
+      "page": 602,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Colostrum",
+      "page": 605,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coltsfoot",
+      "page": 608,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects General use",
+      "page": 608,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Comfrey",
+      "page": 610,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Common cold",
+      "page": 612,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coneflower see Echinacea",
+      "page": 616,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Conjunctivitis",
+      "page": 616,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Treatment Causes and symptoms",
+      "page": 617,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Constipation",
+      "page": 619,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Constitutional homeopathic remedies see Homeopathy, constitutional prescribing",
+      "page": 623,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Consumption see Tuberculosis",
+      "page": 623,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Contact dermatis",
+      "page": 624,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis Causes and symptoms",
+      "page": 624,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Copper",
+      "page": 626,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coptis",
+      "page": 629,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cordyceps",
+      "page": 631,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Corns and calluses",
+      "page": 632,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cornsilk",
+      "page": 634,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cornus",
+      "page": 636,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations General use",
+      "page": 636,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Coronary artery disease see Heart disease Coronary thrombosis see Heart attack",
+      "page": 637,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Corydalis",
+      "page": 637,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cotton root bark",
+      "page": 639,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cough",
+      "page": 640,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Coughwort see Coltsfoot Crab lice see Lice infestation",
+      "page": 642,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cradle cap",
+      "page": 642,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prevention Causes and symptoms",
+      "page": 642,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cramp bark",
+      "page": 644,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cranberry",
+      "page": 646,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cranial manipulation see Craniosacral",
+      "page": 649,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Craniosacral therapy",
+      "page": 649,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "WILLIAM SUTHERLAND (1873–1954)",
+      "page": 651,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Creatine",
+      "page": 651,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Crohn’s disease",
+      "page": 654,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Croup",
+      "page": 658,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Crystal healing",
+      "page": 660,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Origins",
+      "page": 660,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cupping",
+      "page": 661,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Traing and certification",
+      "page": 661,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Curanderismo",
+      "page": 662,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Curcumin",
+      "page": 664,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Research",
+      "page": 665,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Drug interactions",
+      "page": 666,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cuscuta",
+      "page": 667,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cuts and scratches",
+      "page": 670,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Treatment",
+      "page": 670,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cyanocobalamin see Vitamin B 12",
+      "page": 672,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Cymatic therapy",
+      "page": 672,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins Description",
+      "page": 672,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Cyperus",
+      "page": 674,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Cystis see Bladder infection Cysts, ovarian see Ovarian cysts",
+      "page": 675,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Damiana",
+      "page": 676,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dance therapy",
+      "page": 678,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Traing and certification",
+      "page": 680,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Dandelion",
+      "page": 681,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dandruff",
+      "page": 683,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Deglycyrrhizinated licorice",
+      "page": 685,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Expected results Description",
+      "page": 685,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Deadly nightshade see Belladonna",
+      "page": 685,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Dehydroepiandrosterone see DHEA",
+      "page": 686,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Dementia",
+      "page": 686,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Allopathic treatment Expected results",
+      "page": 689,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Depression",
+      "page": 690,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dermatis",
+      "page": 695,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Detoxification",
+      "page": 699,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Devil’s claw",
+      "page": 703,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "DGL see Licorice; Deglycyrrhizanated licorice",
+      "page": 705,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "DHEA",
+      "page": 705,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diabetes mellitus",
+      "page": 707,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diamond diet",
+      "page": 715,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diaper rash",
+      "page": 716,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diarrhea",
+      "page": 718,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diathermy",
+      "page": 722,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diets",
+      "page": 724,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Digestive enzymes",
+      "page": 727,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects and interactions",
+      "page": 728,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Digitalis",
+      "page": 729,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mechanism of action",
+      "page": 730,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Uses",
+      "page": 730,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Diverticulitis",
+      "page": 731,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diverticulosis see Diverticulitis",
+      "page": 734,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Dizziness",
+      "page": 734,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dolomite",
+      "page": 738,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dong quai",
+      "page": 740,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dowsing see Radiesthesia Drug abuse see Substance abuse and",
+      "page": 743,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "dependence",
+      "page": 743,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Dry mouth",
+      "page": 743,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dysbosis",
+      "page": 745,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dyslexia",
+      "page": 747,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Dysmenorrhea",
+      "page": 751,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prevention Description",
+      "page": 751,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Dyspepsia see Indigestion",
+      "page": 753,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ear acupuncture see Auriculotherapy",
+      "page": 754,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ear infection",
+      "page": 754,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Earache",
+      "page": 759,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Eastern red cedar see Juniper Eating disorders see Anorexia nervosa; Binge",
+      "page": 761,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "eating disorder; Bulimia nervosa",
+      "page": 761,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Echinacea",
+      "page": 761,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Eczema",
+      "page": 764,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Edema",
+      "page": 767,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Elder",
+      "page": 769,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Electroacupuncture",
+      "page": 772,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "REINHOLD VOLL (1909-1989)",
+      "page": 773,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Eleutheroccus senticosus see Ginseng, Siberian",
+      "page": 773,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Elimination diet",
+      "page": 773,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Emphysema",
+      "page": 776,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Encopresis see Constipation Endometrial cancer see Uterine cancer",
+      "page": 781,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Endometriosis",
+      "page": 781,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Energy medicine",
+      "page": 784,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "CAROLINE MYSS (1953–)",
+      "page": 786,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Traing and certification Research and general acceptance",
+      "page": 786,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "English plantain see Plantain Enuresis see Bedwetting",
+      "page": 787,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Environmental therapy",
+      "page": 787,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Environmental therapy, Clinical ecology see Water",
+      "page": 790,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Enzyme therapy",
+      "page": 790,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "EPA see Fish oil",
+      "page": 792,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ephedra",
+      "page": 792,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Epidymitis",
+      "page": 796,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Epilepsy",
+      "page": 799,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Epimedium",
+      "page": 803,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions General use",
+      "page": 805,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Erectile dysfunction see Impotence",
+      "page": 805,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Escharotic treatment",
+      "page": 805,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Essential fatty acids",
+      "page": 807,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Essential oils",
+      "page": 810,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Essiac tea",
+      "page": 813,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Eucalyptus",
+      "page": 815,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions General use",
+      "page": 818,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Eucommia bark",
+      "page": 818,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Eupatorium",
+      "page": 819,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Medical uses",
+      "page": 820,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Euphrasea officinalis see Eyebright",
+      "page": 821,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Euphrasia",
+      "page": 821,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Preparations",
+      "page": 821,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Evening primrose oil",
+      "page": 822,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Evodia fruit",
+      "page": 824,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Exercise",
+      "page": 826,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Eyebright",
+      "page": 829,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Facial massage",
+      "page": 832,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Faith healing see Prayer and spirituality Farsightedness see Hyperopia",
+      "page": 835,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Fasting",
+      "page": 835,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "EVARTS LOOMIS (1910–2003)",
+      "page": 836,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Fatigue",
+      "page": 838,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Feldenkrais",
+      "page": 841,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MOSHE FELDENKRAIS (1904–1984)",
+      "page": 842,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Feng shui",
+      "page": 844,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fennel",
+      "page": 846,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fenugreek",
+      "page": 848,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ferrum phosphoricum",
+      "page": 851,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fever",
+      "page": 853,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fever blister see Cold sores",
+      "page": 856,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Feverfew",
+      "page": 856,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Feverwort see Boneset",
+      "page": 859,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Fibrocystic breast disease",
+      "page": 859,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fibroids see Uterine fibroids",
+      "page": 861,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Fibromyalgia",
+      "page": 861,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fish oil",
+      "page": 863,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "5-Hydroxytryptophan see 5-HTP",
+      "page": 866,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "5-HTP",
+      "page": 866,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Flatulence see Gas Flavonoids see Bioflavonoids",
+      "page": 868,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Flaxseed",
+      "page": 869,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Clinical studies",
+      "page": 869,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Flower remedies",
+      "page": 872,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "EDWARD BACH (1886–1936)",
+      "page": 875,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Flu see Influenza Fluid retention see Edema",
+      "page": 877,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Folate see Folic acid",
+      "page": 878,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Folic acid",
+      "page": 878,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Food poisoning",
+      "page": 880,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Interactions",
+      "page": 880,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Common pathogens causing food poisoning",
+      "page": 882,
+      "font_size": 12.02
+    },
+    {
+      "level": "H4",
+      "text": "Types of food poisoning",
+      "page": 883,
+      "font_size": 12.02
+    },
+    {
+      "level": "H4",
+      "text": "Foxglove see Digitalis",
+      "page": 886,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Fractures",
+      "page": 886,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "French green clay",
+      "page": 888,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Expected results",
+      "page": 888,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Fritillaria",
+      "page": 892,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Frostbite and frostnip",
+      "page": 894,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fructooligosaccharides",
+      "page": 896,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Fungal infections",
+      "page": 899,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Furuncles see Boils",
+      "page": 901,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Gallstones",
+      "page": 902,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gamma-linoleic acid",
+      "page": 904,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gangrene",
+      "page": 908,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ganoderma",
+      "page": 910,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Garcinia",
+      "page": 913,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Garden mint see Spearmint",
+      "page": 915,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Gardenia",
+      "page": 915,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Garlic",
+      "page": 917,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gas",
+      "page": 921,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gastritis",
+      "page": 923,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Prevention",
+      "page": 923,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Gastrodia",
+      "page": 927,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gastroenteritis",
+      "page": 929,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gelsemium",
+      "page": 932,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Genital herpes",
+      "page": 933,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gelsemium sempervirons see Gelsemium Gem healing see Crystal healing",
+      "page": 933,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Genital warts",
+      "page": 936,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gentiana",
+      "page": 938,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gentiana lutea see Gentiana",
+      "page": 940,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Geriatric massage",
+      "page": 940,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Definition",
+      "page": 940,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "German chamomile see Chamomile German measles see Rubella",
+      "page": 941,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Gerson therapy",
+      "page": 942,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ginger",
+      "page": 943,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gingivitis see Gum disease",
+      "page": 945,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ginkgo biloba",
+      "page": 945,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ginseng, American",
+      "page": 947,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ginseng, Korean",
+      "page": 949,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ginseng, Siberian",
+      "page": 953,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Glaucoma",
+      "page": 955,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Glucosamine",
+      "page": 958,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Glutamine",
+      "page": 961,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Glutathione",
+      "page": 962,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gluten-free diet",
+      "page": 964,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Goatweed see St. John’s wort",
+      "page": 968,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Goldenrod",
+      "page": 968,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Goldenseal",
+      "page": 971,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gonorrhea",
+      "page": 972,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis Allopathic treatment",
+      "page": 973,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Gotu kola",
+      "page": 975,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gout",
+      "page": 978,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Grains-of-paradise fruit",
+      "page": 982,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Grape seed extract",
+      "page": 983,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Side effects",
+      "page": 983,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Graves’ disease see Hyperthyroidism",
+      "page": 986,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Grape skin",
+      "page": 986,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Grapefruit seed extract",
+      "page": 988,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Green tea",
+      "page": 990,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Grippe see Influenza",
+      "page": 993,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Guggul",
+      "page": 993,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Guided imagery",
+      "page": 994,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MARTIN ROSSMAN (1945-)",
+      "page": 996,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance Preparations",
+      "page": 996,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Gulf War syndrome",
+      "page": 997,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Allopathic treatment Diagnosis",
+      "page": 998,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Gum disease",
+      "page": 999,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gymnema",
+      "page": 1002,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Gypsywort see Bugleweed",
+      "page": 1004,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hair loss",
+      "page": 1006,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Halitosis",
+      "page": 1008,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hangnail see Ingrown nail",
+      "page": 1009,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hangover",
+      "page": 1009,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hardening of the arteries see Atherosclerosis",
+      "page": 1012,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hashimoto’s thyroiditis",
+      "page": 1012,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hatha yoga",
+      "page": 1015,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hawaiian massage see Lomilomi",
+      "page": 1018,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hawthorn",
+      "page": 1018,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hay fever",
+      "page": 1020,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "He shou wu see Fo ti Head lice see Lice infestation",
+      "page": 1023,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Headache",
+      "page": 1024,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hearing loss",
+      "page": 1029,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Heart attack",
+      "page": 1033,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Heart disease",
+      "page": 1038,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis Treatment",
+      "page": 1040,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Heartburn",
+      "page": 1044,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Causes and symptoms Description",
+      "page": 1044,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Heavy metal poisoning",
+      "page": 1049,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Heel spurs",
+      "page": 1051,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Heliotrope see Valerian",
+      "page": 1053,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hellerwork",
+      "page": 1053,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Prevention",
+      "page": 1053,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Hemorrhoids",
+      "page": 1055,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hepar sulphuris",
+      "page": 1057,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hepatis",
+      "page": 1059,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Herbalism, traditional Chinese",
+      "page": 1064,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Research and general acceptance",
+      "page": 1067,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Herbal cold remedies",
+      "page": 1068,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Recommended dosage",
+      "page": 1070,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Herbalism, Western",
+      "page": 1071,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Description",
+      "page": 1074,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Herniated disk",
+      "page": 1076,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Herpes genitalis see Genital herpes Herpes simplex see Canker sores; Cold sores",
+      "page": 1081,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Herpes zoster see Shingles",
+      "page": 1081,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hesperidin",
+      "page": 1081,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hiatal hernia",
+      "page": 1083,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hibiscus",
+      "page": 1085,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hiccups",
+      "page": 1087,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "High-protein diet see Atkins diet High blood pressure see Hypertension",
+      "page": 1089,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "High cholesterol see Cholesterol",
+      "page": 1089,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "High-fiber diet",
+      "page": 1089,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "High sensitivity C-reactive protein test",
+      "page": 1092,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "HIV infection see AIDS",
+      "page": 1094,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hives",
+      "page": 1094,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hodgkin’s disease",
+      "page": 1096,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Holistic dentistry",
+      "page": 1098,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Expected results",
+      "page": 1098,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Holistic medicine",
+      "page": 1102,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Holy thistle see Blessed thistle",
+      "page": 1105,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Homeopathy",
+      "page": 1106,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "SAMUEL HAHNEMANN (1755–1833)",
+      "page": 1108,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Homeopathy, acute",
+      "page": 1112,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "prescribing",
+      "page": 1112,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Homeopathy, constitutional prescribing",
+      "page": 1115,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Honeysuckle",
+      "page": 1120,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hoodia",
+      "page": 1121,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hops",
+      "page": 1123,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Horehound",
+      "page": 1124,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Horse chestnut",
+      "page": 1127,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Horsetail",
+      "page": 1128,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hot flashes",
+      "page": 1131,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hou xiang see Agastache Houndsbane see Horehound",
+      "page": 1136,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hoxsey formula",
+      "page": 1136,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Huang qi see Astragalus Huckleberry see Bilberry",
+      "page": 1139,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Humor therapy",
+      "page": 1139,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Definition",
+      "page": 1139,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Huna",
+      "page": 1140,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hydrotherapy",
+      "page": 1142,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins Side effects",
+      "page": 1142,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "VINZENZ PRIESSNITZ (1799–1851)",
+      "page": 1143,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Description",
+      "page": 1143,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Hyperactivity see Attention-deficit hyperac- tivity disorder",
+      "page": 1146,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hypercortisolemia",
+      "page": 1147,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Treatment Prevention",
+      "page": 1148,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Hypericum see St. John’s wort",
+      "page": 1149,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Hyperopia",
+      "page": 1149,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hyperparathyroidism",
+      "page": 1151,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hypertension",
+      "page": 1154,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hyperthermia",
+      "page": 1159,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hyperthyroidism",
+      "page": 1160,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Symptoms of hyperthyroidism",
+      "page": 1161,
+      "font_size": 12.02
+    },
+    {
+      "level": "H4",
+      "text": "Hypnotherapy",
+      "page": 1163,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hypoglycemia",
+      "page": 1167,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Hypothyroidism",
+      "page": 1170,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Symptoms of hypothyroidism",
+      "page": 1171,
+      "font_size": 12.02
+    },
+    {
+      "level": "H4",
+      "text": "Hyssop",
+      "page": 1174,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "IBD see Inflammatory bowel disease IBS see Irritable bowel syndrome",
+      "page": 1178,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Iceland moss",
+      "page": 1178,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ignatia",
+      "page": 1180,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Imagery see Guided imagery",
+      "page": 1181,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Immuno-augmentation",
+      "page": 1181,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Impetigo",
+      "page": 1185,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Impotence",
+      "page": 1187,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Indigestion",
+      "page": 1190,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Indian medicine see Ayurvedic medicine Indian paint see Bloodroot; Goldenseal",
+      "page": 1190,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Indian plantago see Psyllium Indian tobacco see Lobelia",
+      "page": 1190,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Infant massage",
+      "page": 1194,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Infections",
+      "page": 1196,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Infectious monucleosis see Monucleosis",
+      "page": 1201,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Infertility",
+      "page": 1201,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Inflammatory bowel disease",
+      "page": 1206,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Influenza",
+      "page": 1209,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ingrown nail",
+      "page": 1213,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Inositol",
+      "page": 1215,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Insomnia",
+      "page": 1216,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Insect bites see Bites and stings",
+      "page": 1216,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Insulin resistance",
+      "page": 1221,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interstial cystis",
+      "page": 1224,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Iodine",
+      "page": 1226,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ipecac",
+      "page": 1229,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ipraflavone see Ipriflavone",
+      "page": 1232,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ipriflavone",
+      "page": 1232,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Iridology",
+      "page": 1235,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Iron",
+      "page": 1238,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Irritable bowel syndrome",
+      "page": 1241,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Symptoms and Causes",
+      "page": 1242,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Ischemia",
+      "page": 1245,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Itching",
+      "page": 1250,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Italian diet see Mediterranean diet",
+      "page": 1250,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "General uses",
+      "page": 1254,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Jamaica dogwood",
+      "page": 1254,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Japanese traditional medicine see Kampo medicine",
+      "page": 1255,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Jaundice",
+      "page": 1255,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Jew’s myrtle see Butcher’s broom",
+      "page": 1262,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Jock itch",
+      "page": 1262,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Jojoba oil",
+      "page": 1264,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Interactions",
+      "page": 1266,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Journal therapy",
+      "page": 1266,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Juice therapies",
+      "page": 1268,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Juniper",
+      "page": 1272,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Juvenile rheumatoid arthritis",
+      "page": 1274,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Causes and symptoms",
+      "page": 1274,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Kali bichromium",
+      "page": 1278,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kampo medicine",
+      "page": 1279,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins Interactions",
+      "page": 1279,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Kaposi’s sarcoma",
+      "page": 1281,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prevention Allopathic treatment",
+      "page": 1282,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Kava",
+      "page": 1283,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kegel exercises",
+      "page": 1286,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kelley-Gonzalez diet",
+      "page": 1289,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kelp",
+      "page": 1291,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Khella",
+      "page": 1293,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Active Constituents",
+      "page": 1293,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Contraindications",
+      "page": 1294,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Kidney infections",
+      "page": 1295,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kidney stones",
+      "page": 1298,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kinesiology see Applied kinesiology",
+      "page": 1302,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Kirlian photography",
+      "page": 1302,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Knee pain",
+      "page": 1304,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kneipp wellness",
+      "page": 1307,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "FATHER SEBASTIAN KNEIPP (1821–1897)",
+      "page": 1309,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Kola nut",
+      "page": 1309,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kombucha",
+      "page": 1312,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Kudzu",
+      "page": 1314,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "L-Argine see Argine",
+      "page": 1316,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "L-Carnitine see Carnitine L-Glutamine see Glutamine",
+      "page": 1316,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Labyrinth walking",
+      "page": 1318,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lachesis",
+      "page": 1321,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lacto-ovo vegetarianism",
+      "page": 1323,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lactobacillus species",
+      "page": 1327,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Laetrile see Apricot seed Lapacho see Pau d’arco",
+      "page": 1330,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Laryngitis",
+      "page": 1330,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lavender",
+      "page": 1333,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Laughter therapy see Humor therapy",
+      "page": 1333,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lazy eye",
+      "page": 1335,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lead poisoning",
+      "page": 1338,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Learning disorders",
+      "page": 1343,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lecithin",
+      "page": 1346,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ledum",
+      "page": 1347,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lemon balm",
+      "page": 1349,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lemongrass",
+      "page": 1351,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Leopard’s bane see Arnica",
+      "page": 1353,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Leukemia",
+      "page": 1354,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lice infestation",
+      "page": 1359,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lichen see Usnea",
+      "page": 1364,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Licorice",
+      "page": 1364,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Licorice mint see Agastache",
+      "page": 1366,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Light therapy",
+      "page": 1366,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ling zhi see Reishi mushroom",
+      "page": 1369,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Linoleic acid",
+      "page": 1370,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Linseed see Flaxseed",
+      "page": 1372,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lipase",
+      "page": 1372,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side effects Definition",
+      "page": 1372,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Live cell therapy see Cell therapy",
+      "page": 1375,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Livingston-Wheeler therapy",
+      "page": 1375,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lobelia",
+      "page": 1376,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Traing and certification",
+      "page": 1376,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Lockjaw see Tetanus",
+      "page": 1379,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lomatium",
+      "page": 1379,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Interactions Origins",
+      "page": 1381,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Lomilomi",
+      "page": 1381,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Description",
+      "page": 1381,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Lou Gehrig’s disease",
+      "page": 1382,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Research and general acceptance",
+      "page": 1382,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Low back pain",
+      "page": 1386,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Low blood sugar see Hypoglycemia Lowfat diet see Ornish diet",
+      "page": 1390,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lumbar pain see Low back pain",
+      "page": 1390,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lung cancer",
+      "page": 1390,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lupus see Systemic lupus erythematoses",
+      "page": 1397,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lutein",
+      "page": 1397,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Definition",
+      "page": 1397,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Lycium fruit",
+      "page": 1399,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lycopene",
+      "page": 1400,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lycopodium",
+      "page": 1403,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lycopus",
+      "page": 1405,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Defintion",
+      "page": 1405,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Lyme disease",
+      "page": 1407,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lymphatic drainage",
+      "page": 1411,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lysimachia",
+      "page": 1412,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Lymphomas see Hodgkin’s disease",
+      "page": 1412,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Lysine",
+      "page": 1414,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ma huang see Ephedra Mace see Nutmeg",
+      "page": 1418,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Macrobiotic diet",
+      "page": 1418,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Macular degeneration",
+      "page": 1422,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Magnesium",
+      "page": 1426,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Magnetic therapy",
+      "page": 1430,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Side effects",
+      "page": 1431,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Magnolia",
+      "page": 1432,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Maharishi Ayurveda see Ayurvedic medicine Mai men dong see Ophiopogon",
+      "page": 1434,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Maitake",
+      "page": 1435,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Malaria",
+      "page": 1437,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Malignant lymphoma",
+      "page": 1441,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Malignant melanoma see Skin cancer Mandarin orange peel see Tangerine peel",
+      "page": 1444,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Manganese",
+      "page": 1445,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mangosteen",
+      "page": 1447,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Manic depression see Bipolar disorder",
+      "page": 1450,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Manuka honey",
+      "page": 1450,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Marigold see Calendula",
+      "page": 1453,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Marijuana",
+      "page": 1453,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Controversy",
+      "page": 1454,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Marsh mallow",
+      "page": 1456,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Martial arts",
+      "page": 1458,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Massage therapy",
+      "page": 1462,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Origins",
+      "page": 1462,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Mastis see Breastfeeding problems",
+      "page": 1466,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "McDougall diet",
+      "page": 1466,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MCTs see Medium-chain triglycerides",
+      "page": 1467,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Measles",
+      "page": 1468,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Meditation",
+      "page": 1471,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MAHARISHI MAHESH YOGI (1911–2008)",
+      "page": 1474,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Mediterranean diet",
+      "page": 1475,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Medium-chain",
+      "page": 1479,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "triglycerides",
+      "page": 1479,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Melanoma see Skin cancer",
+      "page": 1481,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Melatonin",
+      "page": 1482,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Melissa officinalis see Lemon balm",
+      "page": 1483,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Memory loss",
+      "page": 1484,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Me´nie`re’s disease",
+      "page": 1488,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Meningitis",
+      "page": 1491,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Menopause",
+      "page": 1496,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Menstrual cramps see Dysmenorrhea",
+      "page": 1501,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Menstruation",
+      "page": 1501,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mercurius vivus",
+      "page": 1507,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mercury poisoning",
+      "page": 1509,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mesoglycan",
+      "page": 1513,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Metabolic therapies",
+      "page": 1514,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Methionine",
+      "page": 1515,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Methylcobalamin see Vitamin B 12",
+      "page": 1518,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Mexican yam",
+      "page": 1518,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Middle ear infection see Ear infection",
+      "page": 1520,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Migraine headache",
+      "page": 1520,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Allopathic treatments",
+      "page": 1523,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Milk thistle",
+      "page": 1525,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mind/body medicine",
+      "page": 1527,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "ANDREW WEIL (1942–)",
+      "page": 1532,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Mindfulness meditation see Meditation",
+      "page": 1532,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Mistletoe",
+      "page": 1532,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Monkshood see Aconite",
+      "page": 1535,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Monucleosis",
+      "page": 1535,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Symptoms",
+      "page": 1536,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Morinda citrifolia see Noni",
+      "page": 1539,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Morning sickness",
+      "page": 1539,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis Description",
+      "page": 1539,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Mosquito plant see Pennyroyal",
+      "page": 1540,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Motherwort",
+      "page": 1541,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Motion sickness",
+      "page": 1542,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mountain grape see Barberry",
+      "page": 1546,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Movement therapy",
+      "page": 1546,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Moxibustion",
+      "page": 1551,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MS see Multiple sclerosis",
+      "page": 1552,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "MSM",
+      "page": 1552,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mugwort",
+      "page": 1555,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mullein",
+      "page": 1558,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Multiple chemical sensitivity",
+      "page": 1561,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Multiple sclerosis",
+      "page": 1564,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Mum see Chrysanthemum flower",
+      "page": 1567,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Mumps",
+      "page": 1567,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Muscle spasms & cramps",
+      "page": 1571,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Muscle strain see Sprains and strains Muscle testing see Applied kinesiology",
+      "page": 1573,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Mushrooms see Maitake; Reishi mushroom; Shiitake mushroom",
+      "page": 1573,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Music therapy",
+      "page": 1573,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Allopathic treatment",
+      "page": 1573,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Myocardial infarction see Heart attack Myocarditis see Heart disease",
+      "page": 1577,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Myopia",
+      "page": 1577,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Myotherapy",
+      "page": 1580,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "BONNIE PRUDDEN (1914-)",
+      "page": 1582,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Myrrh",
+      "page": 1582,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Myrtle see Periwinkle",
+      "page": 1585,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Nail problems see Ingrown nail",
+      "page": 1586,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Narcolepsy",
+      "page": 1586,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Native American medicine",
+      "page": 1588,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Natrum muriaticum",
+      "page": 1590,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Natural hormone replacement",
+      "page": 1592,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Natural hygiene diet",
+      "page": 1598,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Naturopathic medicine",
+      "page": 1600,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "BENEDICT LUST (1872–1945)",
+      "page": 1603,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Nausea",
+      "page": 1604,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Neck pain",
+      "page": 1607,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "NDV see Newcastle disease virus Nearsightedness see Myopia",
+      "page": 1607,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Neem",
+      "page": 1611,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nerve pain see Neuralgia",
+      "page": 1613,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Nettle",
+      "page": 1613,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Neural therapy",
+      "page": 1616,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Neuralgia",
+      "page": 1618,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Neurolinguisitic programming",
+      "page": 1621,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Niacin",
+      "page": 1622,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Description",
+      "page": 1622,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Deficiency",
+      "page": 1623,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Night blindness",
+      "page": 1625,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Non-Hodgkins lymphoma see Malignant lymphoma",
+      "page": 1627,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Noni",
+      "page": 1627,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nosebleeds",
+      "page": 1629,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Side Effects Causes and symptoms",
+      "page": 1629,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Prevention Diagnosis",
+      "page": 1630,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Notoginseng root",
+      "page": 1631,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nursing problems see Breastfeeding problems",
+      "page": 1633,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Nutmeg",
+      "page": 1633,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Preparation",
+      "page": 1633,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Nutrition",
+      "page": 1635,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nutritional supplements see Orthomolecu- lar medicine",
+      "page": 1638,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Nux vomica",
+      "page": 1638,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Oak",
+      "page": 1642,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Oatstraw see Wild oat",
+      "page": 1644,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Obesity",
+      "page": 1644,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "New directions in obesity treatment",
+      "page": 1649,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Obsessive-compulsive disorder",
+      "page": 1650,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Omega–3 fatty acids",
+      "page": 1653,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "OCD see Obsessive-compulsive disorder",
+      "page": 1653,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Omega-6 fatty acids",
+      "page": 1657,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Onion see Allium cepa",
+      "page": 1659,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ophiopogon",
+      "page": 1659,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Opuntia see Prickly pear cactus",
+      "page": 1661,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Oral herpes see Cold sores",
+      "page": 1661,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Oregano essential oil",
+      "page": 1661,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Organic food",
+      "page": 1665,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Purpose",
+      "page": 1665,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Selecting organic food",
+      "page": 1666,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Organic food and health",
+      "page": 1666,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Complications",
+      "page": 1667,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Parental concerns",
+      "page": 1667,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Oriental Ginseng, Panax ginseng see Ginseng, Korean",
+      "page": 1667,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ornish diet",
+      "page": 1668,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "DEAN ORNISH (1953-)",
+      "page": 1670,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Ornithosis see Psittacosis",
+      "page": 1671,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ortho-bionomy",
+      "page": 1671,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Orthomolecular medicine",
+      "page": 1673,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Osha",
+      "page": 1675,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Osteoarthritis",
+      "page": 1676,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Osteopathy",
+      "page": 1680,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "ANDREW TAYLOR STILL (1828–1917)",
+      "page": 1684,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Osteoporosis",
+      "page": 1685,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Otis media see Ear infection",
+      "page": 1690,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ovarian cancer",
+      "page": 1690,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ovarian cysts",
+      "page": 1696,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Overweight see Obesity",
+      "page": 1701,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Oxygen/ozone therapy",
+      "page": 1701,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pain",
+      "page": 1706,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Painful bladder syndrome see Interstial",
+      "page": 1710,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Paleolithic diet",
+      "page": 1710,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Palming see Bates method Panax quinquefolius see Ginseng, American",
+      "page": 1711,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Panchakarma",
+      "page": 1712,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pancreatic enzymes see Digestive enzymes",
+      "page": 1715,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pancreatis",
+      "page": 1715,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Panic disorder",
+      "page": 1719,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pantothenic acid",
+      "page": 1722,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Deficiency",
+      "page": 1724,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Parasitic infections",
+      "page": 1725,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Parkinson’s disease",
+      "page": 1729,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Parotis see Mumps Parrot fever see Psittacosis",
+      "page": 1734,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Parsley",
+      "page": 1734,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Partridge berry see Squawvine Pasque flower see Pulsatilla",
+      "page": 1737,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Passionflower",
+      "page": 1737,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Past life therapy",
+      "page": 1740,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "BRIAN WEISS (1944-)",
+      "page": 1741,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Pau d’arco",
+      "page": 1742,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pediculosis see Lice infestation",
+      "page": 1743,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pelvic inflammatory",
+      "page": 1743,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pennyroyal",
+      "page": 1749,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Peony see White peony root",
+      "page": 1751,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Peppermint",
+      "page": 1751,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Periodontal disease see Gum disease",
+      "page": 1755,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Peripheral neuropathy",
+      "page": 1755,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Periwinkle",
+      "page": 1758,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pertusis see Whooping cough",
+      "page": 1760,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pet therapy",
+      "page": 1760,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pharyngitis see Sore throat",
+      "page": 1762,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Phlebitis",
+      "page": 1762,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Phobias",
+      "page": 1764,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Phosphorus",
+      "page": 1768,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Phytolacca",
+      "page": 1770,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "PID see Pelvic inflammatory disease",
+      "page": 1772,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pilates",
+      "page": 1772,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Piles see Hemorrhoids",
+      "page": 1774,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pinched nerve",
+      "page": 1774,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pine bark extract",
+      "page": 1778,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pinellia",
+      "page": 1780,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pink eye see Conjunctivitis Piper methysticum see Kava",
+      "page": 1781,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pityriasis rosea",
+      "page": 1782,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Treatment Expected results",
+      "page": 1783,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Placebo effect",
+      "page": 1784,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Plantain",
+      "page": 1786,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pleurisy",
+      "page": 1789,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "PMS see Premenstrual syndrome",
+      "page": 1792,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pneumonia",
+      "page": 1792,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Poison ivy and poison oak see Contact dermatis",
+      "page": 1796,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Poison oak (plant) see Rhus toxicodendron Pokeweeds see Phytolacca",
+      "page": 1796,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Polarity therapy",
+      "page": 1797,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Traing and certification Side effects",
+      "page": 1798,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "RANDOLF STONE (1890-1981)",
+      "page": 1799,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Polycystic ovary syndrome",
+      "page": 1799,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Nutrition/dietic concerns",
+      "page": 1801,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Polygonum see Fo ti",
+      "page": 1803,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Postpartum depression",
+      "page": 1803,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Post-traumatic stress disorder",
+      "page": 1805,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Potassium",
+      "page": 1810,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pranic healing",
+      "page": 1813,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Praniyama see Breath therapy",
+      "page": 1816,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Prayer and spirituality",
+      "page": 1816,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pregnancy",
+      "page": 1819,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pregnancy massage",
+      "page": 1824,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Traing and certification",
+      "page": 1826,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Premenstrual syndrome",
+      "page": 1826,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prickly heat",
+      "page": 1831,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prickly pear cactus",
+      "page": 1833,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prince’s pine",
+      "page": 1837,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pritikin diet",
+      "page": 1838,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Probiotics",
+      "page": 1841,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Proanthocyanidin see Grape seed extract",
+      "page": 1841,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance Precautions",
+      "page": 1844,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Prolotherapy",
+      "page": 1846,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prostate cancer",
+      "page": 1847,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Prostate enlargement",
+      "page": 1852,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psoralea seeds",
+      "page": 1856,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psoriasis",
+      "page": 1858,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psychic healing see Cayce systems",
+      "page": 1862,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Psychoneuroimmunology",
+      "page": 1862,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psychophysical integration see Trager psychophysical integration",
+      "page": 1863,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Psychophysiology",
+      "page": 1863,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Treatments",
+      "page": 1864,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Psychosomatic medicine",
+      "page": 1866,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psychotherapy",
+      "page": 1868,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Psyllium",
+      "page": 1872,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pukeweed see Lobelia Pulmonary heart disease see Heart disease",
+      "page": 1874,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pulsatilla",
+      "page": 1875,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Pulse diagnosis",
+      "page": 1877,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "LI SHIZ-HEN (1518-1593)",
+      "page": 1879,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Purification therapy see Panchakarma Purple coneflower see Echinacea",
+      "page": 1879,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pygeum see Saw palmetto",
+      "page": 1879,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Pyridoxine",
+      "page": 1880,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Qigong",
+      "page": 1882,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Quan yin",
+      "page": 1885,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations and precautions",
+      "page": 1887,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Quercetin",
+      "page": 1888,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rabies",
+      "page": 1892,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Radiation injuries",
+      "page": 1894,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Radiation sources",
+      "page": 1895,
+      "font_size": 12.02
+    },
+    {
+      "level": "H4",
+      "text": "Radiesthesia",
+      "page": 1900,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Radionics",
+      "page": 1901,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rashes",
+      "page": 1903,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Raspberry",
+      "page": 1906,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Raynaud’s syndrome",
+      "page": 1908,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Reconstructive therapy see Prolotherapy",
+      "page": 1911,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Red cedar",
+      "page": 1911,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Red clover",
+      "page": 1913,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Red yeast rice extract",
+      "page": 1915,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Reflexology",
+      "page": 1918,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "EUNICE D. INGHAM (1889–1974)",
+      "page": 1920,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Reiki",
+      "page": 1922,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MIKAO USUI (1865–1926)",
+      "page": 1925,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Reishi mushroom",
+      "page": 1925,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Relaxation",
+      "page": 1927,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance Traing and certification",
+      "page": 1930,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "HERBERT BENSON (1935–)",
+      "page": 1931,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Rescue Remedy",
+      "page": 1931,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Restless leg syndrome",
+      "page": 1933,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Resveratrol",
+      "page": 1935,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Retinal detachment",
+      "page": 1938,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Retinol see Vitamin A",
+      "page": 1939,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Retinopathy",
+      "page": 1940,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rheumatic fever",
+      "page": 1943,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rheumatoid arthritis",
+      "page": 1947,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rheumatoid spondylitis see Ankylosing spondylitis",
+      "page": 1951,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Rhinitis",
+      "page": 1951,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rhodiola rosea",
+      "page": 1953,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rhubarb root",
+      "page": 1955,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rhus toxicodendron",
+      "page": 1958,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Riboflavin",
+      "page": 1960,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "General use Precautions",
+      "page": 1960,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Recommended dietary allowance of riboflavin",
+      "page": 1961,
+      "font_size": 12.0
+    },
+    {
+      "level": "H4",
+      "text": "Deficiency Precautions",
+      "page": 1962,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Ring ears see Tinnitus",
+      "page": 1963,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Rolfing",
+      "page": 1963,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "IDA P. ROLF PH.D. (1896–1979)",
+      "page": 1966,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Roman chamomile see Chamomile",
+      "page": 1966,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Rosacea",
+      "page": 1966,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rose hip",
+      "page": 1970,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rosemary",
+      "page": 1972,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rosen method",
+      "page": 1975,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Benefits Precautions",
+      "page": 1976,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Royal jelly",
+      "page": 1976,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rubella",
+      "page": 1978,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rubenfeld synergy",
+      "page": 1980,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Rubeola see Measles Rudbeckia see Echinacea",
+      "page": 1981,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Runny nose see Rhinitis",
+      "page": 1981,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Russian massage",
+      "page": 1982,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ruta",
+      "page": 1983,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Saccharomyces boulardii",
+      "page": 1986,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sacro-occipital technique see Craniosacral",
+      "page": 1988,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "SAD see Seasonal affective disorder",
+      "page": 1988,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Safflower flower",
+      "page": 1988,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Saffron",
+      "page": 1990,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sage",
+      "page": 1992,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Saliva sample testing",
+      "page": 1994,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparation Research and general acceptance",
+      "page": 1997,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Sargassum seaweed",
+      "page": 1998,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sassafras",
+      "page": 2000,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Saw palmetto",
+      "page": 2001,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Scabies",
+      "page": 2004,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Scallion",
+      "page": 2006,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Scarlet fever",
+      "page": 2008,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Schisandra",
+      "page": 2011,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Schizophrenia",
+      "page": 2014,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "KEY TERMS (CONTINUED)",
+      "page": 2020,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Sciatica",
+      "page": 2023,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Scoliosis",
+      "page": 2026,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Scratches see Cuts and scratches Scullcap see Skullcap",
+      "page": 2029,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Seasickness see Motion sickness",
+      "page": 2029,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Seasonal affective disorder",
+      "page": 2029,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Seaweed see Kelp Seaweed, sargassum see Sargassum seaweed",
+      "page": 2032,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Seborrhea see Cradle cap Seizure disorder see Epilepsy",
+      "page": 2032,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Selenium",
+      "page": 2032,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Senior nutrition",
+      "page": 2036,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Senna",
+      "page": 2041,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sensory deprivation",
+      "page": 2044,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sensory integration disorder",
+      "page": 2047,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sepia",
+      "page": 2049,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Septicemia see Blood poisoning",
+      "page": 2052,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sesame oil",
+      "page": 2052,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sexual dysfunction",
+      "page": 2054,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sexually transmitted diseases see Chlamydia; Genital herpes; Genital warts; Gonor-",
+      "page": 2057,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "rhea; Syphilis",
+      "page": 2057,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Shamanism",
+      "page": 2057,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shangri-la diet",
+      "page": 2060,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Description Function",
+      "page": 2062,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Sheep sorrel",
+      "page": 2064,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shepherd’s purse",
+      "page": 2066,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shiatsu",
+      "page": 2068,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shiitake mushroom",
+      "page": 2071,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shingles",
+      "page": 2073,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shin splints",
+      "page": 2078,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Shintaido",
+      "page": 2079,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Origins Precautions",
+      "page": 2079,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Research and general acceptance Benefits",
+      "page": 2079,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Sick building syndrome",
+      "page": 2080,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sickle cell anemia",
+      "page": 2083,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Silica",
+      "page": 2089,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Silymarin see Milk thistle",
+      "page": 2091,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sinus infection",
+      "page": 2091,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sinusitis see Sinus infection",
+      "page": 2093,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sjo¨gren’s syndrome",
+      "page": 2093,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Skin cancer",
+      "page": 2095,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Skullcap",
+      "page": 2098,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sleep apnea",
+      "page": 2101,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sleep disorders",
+      "page": 2105,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Slippery elm",
+      "page": 2110,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Smoking",
+      "page": 2113,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "SMT see Spinal manipulative therapy",
+      "page": 2118,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sneezing",
+      "page": 2118,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Snoring",
+      "page": 2119,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sodium",
+      "page": 2122,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Somatics",
+      "page": 2125,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sore throat",
+      "page": 2127,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Soul revival see Shamanism",
+      "page": 2130,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sound therapy",
+      "page": 2130,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "South Beach diet",
+      "page": 2134,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Soy protein",
+      "page": 2138,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Spastic colitis see Irritable bowel syndrome",
+      "page": 2140,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Spearmint",
+      "page": 2140,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Spinal manipulative therapy",
+      "page": 2143,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Spirulina",
+      "page": 2145,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sports massage",
+      "page": 2147,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sprains & strains",
+      "page": 2150,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sprue see Celiac disease Squaw root see Black cohosh",
+      "page": 2152,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Squawvine",
+      "page": 2152,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "St. John’s wort",
+      "page": 2153,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Precautions",
+      "page": 2155,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Staphyloccal infections",
+      "page": 2157,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Stevia",
+      "page": 2161,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sties",
+      "page": 2163,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Diagnosis Prevention",
+      "page": 2164,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Stiff neck see Neck pain Sting nettle see Nettle",
+      "page": 2165,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Stomaches",
+      "page": 2165,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Stone massage",
+      "page": 2168,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Stomatis see Cantharis",
+      "page": 2168,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Strep throat",
+      "page": 2169,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Preparations Definition",
+      "page": 2169,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Stress",
+      "page": 2173,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Stroke",
+      "page": 2176,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Structural integration see Rolfing",
+      "page": 2180,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Substance abuse and dependence",
+      "page": 2180,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sugar diabetes see Diabetes mellitus",
+      "page": 2186,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Sulfur",
+      "page": 2186,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Suma",
+      "page": 2188,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sunburn",
+      "page": 2189,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sun’s soup",
+      "page": 2192,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Swedish massage",
+      "page": 2194,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Sweet clover",
+      "page": 2197,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Swelling see Edema",
+      "page": 2198,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Swimmer’s ear",
+      "page": 2199,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Swollen testicles see Epidymitis",
+      "page": 2201,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Syntonic optometry",
+      "page": 2201,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Syphilis",
+      "page": 2202,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Systemic lupus erythematosus",
+      "page": 2209,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Taheebo see Pau d’arco",
+      "page": 2214,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "T’ai chi",
+      "page": 2214,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "LAO TZU",
+      "page": 2216,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Tangerine peel",
+      "page": 2218,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "T’ai chi ch’uan see T’ai chi Tang shen see Codonopsis root",
+      "page": 2218,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "TB see Tuberculosis TCM see Traditional Chinese medicine",
+      "page": 2220,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tea tree oil",
+      "page": 2220,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Teen nutrition",
+      "page": 2222,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Teeth clenching see Bruxism",
+      "page": 2227,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Teething problems",
+      "page": 2227,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Temporomandibular joint syndrome",
+      "page": 2229,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tendinitis",
+      "page": 2232,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tennis elbow",
+      "page": 2234,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tetanus",
+      "page": 2237,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Thai massage",
+      "page": 2240,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Theanine",
+      "page": 2243,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Therapeutic touch",
+      "page": 2245,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "DOLORES KRIEGER (1935–)",
+      "page": 2246,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Thermography",
+      "page": 2248,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Thiamine",
+      "page": 2251,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Precautions Deficiency",
+      "page": 2252,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Thuja",
+      "page": 2253,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Thrombus see Blood clots Thromophlebitis see Phlebitis",
+      "page": 2253,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Thrush see Yeast infection",
+      "page": 2253,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Thuja occidentalis see Thuja",
+      "page": 2256,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Thunder god vine",
+      "page": 2256,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Thyme",
+      "page": 2258,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "TIA see Stroke",
+      "page": 2261,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tibetan medicine",
+      "page": 2262,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tineas pedis see Athlete’s foot",
+      "page": 2264,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tinnitus",
+      "page": 2264,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "TMJ see Temporomandibular joint syndrome",
+      "page": 2267,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tocopherol see Vitamin E Tomatis method see Auditory integration",
+      "page": 2267,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tongue diagnosis see Traditional Chinese medicine",
+      "page": 2267,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tonsillitis",
+      "page": 2267,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Toothache",
+      "page": 2269,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tourette syndrome",
+      "page": 2270,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Toxemia see Blood poisoning Toxic building syndrome see Sick building",
+      "page": 2273,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "syndrome",
+      "page": 2273,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Toxic shock syndrome",
+      "page": 2273,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Traditional African medicine",
+      "page": 2276,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Traditional Chinese medicine",
+      "page": 2277,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Trager psychophysical integration",
+      "page": 2282,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "MILTON TRAGER (1909–1997)",
+      "page": 2284,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Trancendental meditation see Meditation Transient ischemic attack see Stroke",
+      "page": 2284,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Trefoil see Red clover",
+      "page": 2284,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tremor",
+      "page": 2284,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Trepanation",
+      "page": 2287,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Trichomoniasis",
+      "page": 2290,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Trigger point therapy",
+      "page": 2292,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Triphala",
+      "page": 2294,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "TSS see Toxic shock syndrome",
+      "page": 2296,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Tuberculosis",
+      "page": 2296,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Tui na see Thai massage",
+      "page": 2301,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Turmeric",
+      "page": 2301,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Ulcerative colitis see Inflammatory bowel",
+      "page": 2306,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Ulcers, digestive",
+      "page": 2306,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Unani-tibbi",
+      "page": 2310,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Urinary incontinence",
+      "page": 2313,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Urine therapy",
+      "page": 2317,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Urinary tract infection see Bladder infection",
+      "page": 2317,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Usnea",
+      "page": 2319,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Uterine cancer",
+      "page": 2321,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Uterine fibroids",
+      "page": 2324,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Uva ursi",
+      "page": 2327,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vaginitis",
+      "page": 2330,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Valerian",
+      "page": 2334,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vanadium",
+      "page": 2336,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Varicella see Chickenpox",
+      "page": 2338,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Varicose veins",
+      "page": 2338,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Definition Precautions",
+      "page": 2338,
+      "font_size": 10.96
+    },
+    {
+      "level": "H4",
+      "text": "Veganism",
+      "page": 2341,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vegetarianism",
+      "page": 2346,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "JOHN HARVEY KELLOGG (1852–1943)",
+      "page": 2348,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Venom immunotherapy",
+      "page": 2353,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin A",
+      "page": 2355,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vertigo see Dizziness Vision disorders see Hyperopia; Macular",
+      "page": 2355,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "degeneration; Myopia; Night blindness; Retinal detachment",
+      "page": 2355,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vision therapy see Bates method Visualization see Guided imagery",
+      "page": 2355,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B 1 see Thiamine",
+      "page": 2358,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B 12",
+      "page": 2358,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B 2 see Riboflavin Vitamin B 3 see Niacin",
+      "page": 2360,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B 5 see Pantothenic acid Vitamin B 6 see Pyridoxine",
+      "page": 2360,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B 7 see Biotin",
+      "page": 2360,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin B complex",
+      "page": 2361,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin C",
+      "page": 2364,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin D",
+      "page": 2369,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin E",
+      "page": 2372,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin H see Biotin",
+      "page": 2376,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vitamin K",
+      "page": 2376,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vomiting",
+      "page": 2379,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Vitex see Chasteberry tree",
+      "page": 2379,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Vulvovaginitis see Vaginitis",
+      "page": 2383,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Warts",
+      "page": 2384,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wasabi",
+      "page": 2388,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Water therapy see Hydrotherapy Watsu see Shiatsu",
+      "page": 2390,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Waxberry see Bayberry Western cedar see Red cedar",
+      "page": 2390,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Western herbalism see Herbalism, Western",
+      "page": 2390,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Wheat germ",
+      "page": 2390,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wheat grass therapy",
+      "page": 2391,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wheezing",
+      "page": 2394,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "White peony root",
+      "page": 2396,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "White willow",
+      "page": 2398,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Whooping cough",
+      "page": 2400,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wigmore diet",
+      "page": 2404,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wild endive see Dandelion",
+      "page": 2406,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Wild oat",
+      "page": 2406,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wintergreen",
+      "page": 2409,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wild thyme see Thyme Windflower see Pulsatilla",
+      "page": 2409,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Witch hazel",
+      "page": 2411,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Worms",
+      "page": 2414,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wormwood",
+      "page": 2418,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Wounds",
+      "page": 2420,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Writing therapy see Journal therapy Wu bing shao see Pinellia",
+      "page": 2423,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Wu wei zi see Schisandra",
+      "page": 2423,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "XYZ",
+      "page": 2424,
+      "font_size": 47.82
+    },
+    {
+      "level": "H4",
+      "text": "Xin yi hua see Magnolia",
+      "page": 2424,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Yarrow",
+      "page": 2424,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Yeast infection",
+      "page": 2426,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Yellow dock",
+      "page": 2428,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Yellow jasmine see Gelsemium",
+      "page": 2430,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Yerba santa",
+      "page": 2430,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Yoga",
+      "page": 2432,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "PATANJALI (2ND CENTURY B.C.)",
+      "page": 2437,
+      "font_size": 12.45
+    },
+    {
+      "level": "H4",
+      "text": "Yohimbe",
+      "page": 2438,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Yucca",
+      "page": 2440,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Zhi zi see Gardenia",
+      "page": 2442,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "Zinc",
+      "page": 2442,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "The Zone diet",
+      "page": 2446,
+      "font_size": 14.94
+    },
+    {
+      "level": "H4",
+      "text": "Zone therapy see Reflexology Zoster see Shingles",
+      "page": 2448,
+      "font_size": 11.96
+    },
+    {
+      "level": "H4",
+      "text": "ORGANIZATIONS",
+      "page": 2450,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "GLOSSARY",
+      "page": 2466,
+      "font_size": 17.93
+    },
+    {
+      "level": "H4",
+      "text": "INDEX",
+      "page": 2540,
+      "font_size": 17.93
+    }
+  ]
+}
