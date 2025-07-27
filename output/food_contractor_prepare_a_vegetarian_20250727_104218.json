@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-27T10:42:18.658631"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "• Shredded lettuce, diced tomatoes, shredded ch...",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Tortillas for serving",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Grated Parmesan cheese for garnish",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Salt and pepper to taste",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Salt and pepper to taste",
+      "importance_rank": 5,
+      "page_number": 6
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "refined_text": "in a skillet, cook ground beef over medium heat until browned . add diced onion and minced garlic, sauté until softened ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 8,
+      "refined_text": "in a large skillet, heat vegetable oil over medium heat . cook sliced chicken, bell pepper, and onion until chicken is cooked through ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 3,
+      "refined_text": "in a large skillet, cook ground beef over medium heat until browned . add diced onion, minced garlic, grated carrot, diced celery . sauté until vegetables are tender ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 9,
+      "refined_text": "in a skillet, heat olive oil over medium heat . sauté onion, garlic, zucchini, and bell pepper until tender ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 6,
+      "refined_text": "in a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger . pour over the ribs and bake for 2. 5 hours ."
+    }
+  ]
+}
